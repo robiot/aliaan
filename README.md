@@ -22,8 +22,26 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "got" - (noun) cat
 - "dadi" - (noun) dad
 
-## Modifiers:
-- "des" - (modifier) indicates ownership
+## Case declension
+
+### Nuclear cases
+
+### Local cases
+- "-ran" - Innesive - place where/time when: 'in', 'at', 'on'
+- "-ra" - Allative - 'to'
+- "-ratik" - Ablative - where from/through: 'from', 'since', 'through'
+- "-raino" - Terminative	- up to what limit: 'up to'
+- "-rantz" - Directive - towards what: 'towards'
+- "-reko" - Local genitive - pertaining to where/when: 'of', 'from'
+
+### Other cases
+- "-des" - Possesive Genitive - indicates ownership
+- "-az" - Instrumental - means or topic: 'by', 'of', 'about'
+- "-rekin" - Comitative -	accompaniment or means: 'with'
+- "-rentzat" - Benefactive - beneficiary: 'for'
+- "-rengatik" - Causal - cause, reason or value: 'because of', '(in exchange) for'
+
+## Phrase modifiers
 - "ah" - (modifier) indicates a question
 
 ## Interjections:
