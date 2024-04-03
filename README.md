@@ -40,8 +40,8 @@ The typical word order in Aliaan is Subject-Verb-Object.
 1. "ow yika fu." - (translation) I like you.
 2. "ow yika fu des got." - (translation) I like your cat.
 3. "fu yika ow ah?" - (translation) Do you like me?
-4. "ow evol fu." - (translation) I love you.
-5. "fu evol ow des got-got." - (translation) You love my cats.
+4. "ow asala fu." - (translation) I love you.
+5. "fu asala ow des got-got." - (translation) You love my cats.
 6. "ow ruko fu." - (translation) I speak to you.
 7. "fu ruko ow ah?" - (translation) Do you speak to me?
 8. "on, ow yika fu." - (translation) Yes, I like you.
