@@ -9,7 +9,7 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 
 ## Verbs:
 - "yika" - (verb) like
-- “evol” - (verb) to love
+- “asala” - (verb) to love
 - “ruko” - (verb) to speak
 - “anubu” - (verb) to hate
 
