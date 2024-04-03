@@ -2,7 +2,9 @@
 
 Aliaan is a constructed language designed for simplicity and efficiency in communication. It is primarily formed from a limited set of words and concise grammatical structures.
 
-## Pronouns:
+## Vocabulary
+
+### Pronouns:
 - "ow" - (pronoun) I, me
 - "owe" - (pronoun) we, us
 - "fu" - (pronoun) you
@@ -10,23 +12,30 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 - "ta" - (pronoun) he,she,it
 - "tae" - (pronoun) they, them
 
-## Verbs:
+### Verbs:
 - "yika" - (verb) like
 - “evol” - (verb) to love
 - “ruko” - (verb) to speak
 - “anubu” - (verb) to hate
 
-## Nouns:
+### Nouns:
 To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in plural would be got-got (cats).
 
 - "got" - (noun) cat
 - "dadi" - (noun) dad
 
-## Case declension
+## Gramamr
 
-### Nuclear cases
+aliaan's alignment is Ergative / Absolutive, this means that the subject of a phrase without DO is Absolutive, and if the phrase has DO it's Ergative.
 
-### Local cases
+### Case declension
+
+#### Nuclear cases
+- "-ka" - Ergative - transitive subject
+- "[none]" - Absolutive - intransitive subject; transitive direct object
+- "-kari" Dative	recipient or affected: 'to', 'for', 'from'
+
+#### Local cases
 - "-ran" - Innesive - place where/time when: 'in', 'at', 'on'
 - "-ra" - Allative - 'to'
 - "-ratik" - Ablative - where from/through: 'from', 'since', 'through'
@@ -34,7 +43,7 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "-rantz" - Directive - towards what: 'towards'
 - "-reko" - Local genitive - pertaining to where/when: 'of', 'from'
 
-### Other cases
+#### Other cases
 - "-des" - Possesive Genitive - indicates ownership
 - "-az" - Instrumental - means or topic: 'by', 'of', 'about'
 - "-rekin" - Comitative -	accompaniment or means: 'with'
@@ -55,14 +64,14 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 The typical word order in Aliaan is Subject-Verb-Object.
 
 ## Example Sentences:
-1. "ow yika fu." - (translation) I like you.
-2. "ow yika fu des got." - (translation) I like your cat.
-3. "fu yika ow ah?" - (translation) Do you like me?
-4. "ow evol fu." - (translation) I love you.
-5. "fu evol ow des got-got." - (translation) You love my cats.
-6. "ow ruko fu." - (translation) I speak to you.
-7. "fu ruko ow ah?" - (translation) Do you speak to me?
-8. "on, ow yika fu." - (translation) Yes, I like you.
-9. "sey, ow yika fu des got-got." - (translation) No, I don't like your cats.
+1. "owka yika fu." - (translation) I like you.
+2. "owka yika fudes got." - (translation) I like your cat.
+3. "fuka yika ow ah?" - (translation) Do you like me?
+4. "owka evol fu." - (translation) I love you.
+5. "fuka evol owdes got-got." - (translation) You love my cats.
+6. "ow ruko fukari." - (translation) I speak to you.
+7. "fu ruko owkari ah?" - (translation) Do you speak to me?
+8. "on, owka yika fu." - (translation) Yes, I like you.
+9. "sey, owka yika fudes got-got." - (translation) No, I don't like your cats.
 
 In Aliaan, sentences are constructed by placing the subject first, followed by the verb and then the object, if any. Modifiers such as "des" for ownership or "ah" for questions are placed where appropriate within the sentence.
