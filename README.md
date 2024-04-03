@@ -27,6 +27,8 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "on" - (interjection) yes
 - "sey" - (interjection) no
 - "owow" - (interjection) wow
+- "oli" - (interjection) hi
+- "looap" - (interjection) goodbye
 
 ## Word Order:
 The typical word order in Aliaan is Subject-Verb-Object.
