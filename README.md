@@ -14,7 +14,7 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 
 ### Verbs:
 - "yika" - (verb) like
-- “evol” - (verb) to love
+- “asala” - (verb) to love
 - “ruko” - (verb) to speak
 - “anubu” - (verb) to hate
 
@@ -64,6 +64,7 @@ aliaan's alignment is Ergative / Absolutive, this means that the subject of a ph
 The typical word order in Aliaan is Subject-Verb-Object.
 
 ## Example Sentences:
+
 1. "owka yika fu." - (translation) I like you.
 2. "owka yika fudes got." - (translation) I like your cat.
 3. "fuka yika ow ah?" - (translation) Do you like me?
