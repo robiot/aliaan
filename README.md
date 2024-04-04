@@ -9,12 +9,12 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 ## Vocabulary
 
 ### Pronouns:
-- "ow" - I, me
-- "owe" - we, us
-- "fu" - you (singular)
-- "fue" - you (plural)
-- "ta" - he,she,it
-- "tae" - they, them
+- "ow" - 1st Singular - I, me
+- "owe" - 1st Plural - we, us
+- "fu" - 2nd Singular - you
+- "fue" - 2nd Plural - you all
+- "ta" - 3rd Singular - he,she,it
+- "tae" - 3rd Plural - they, them
 
 ### Verbs:
 - "yika" - like
