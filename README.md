@@ -1,9 +1,10 @@
 # Aliaan v0.3.0
 
 ## Background
-Aliaan is a constructed language designed for simplicity and efficiency in communication. It is primarily formed from a limited set of words and concise grammatical structures.
+Aliaan is a constructed language designed for simplicity and efficiency in communication. It is primarily formed from a limited set of words and concise grammatical structures. Aliaan is spoken in **Aliaand**.
 
-Aliaan is spoken in Aliaand.
+![Flag](https://github.com/robiot/aliaan/assets/68228472/f3710f42-961e-4bad-838b-d18a9d85c823)
+*flag of Aliaand*
 
 ## Vocabulary
 
