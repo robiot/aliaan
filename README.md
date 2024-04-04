@@ -6,6 +6,32 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 ![Flag](https://github.com/robiot/aliaan/assets/68228472/f3710f42-961e-4bad-838b-d18a9d85c823)
 *flag of Aliaand*
 
+## Phonology
+
+A - /a/
+B - /b/
+D - /d/
+E - /e/
+F - /f/
+G - /ɡ/
+H - /h/
+I - /i/
+J - /ʒ/
+K - /k/
+L - /l/
+M - /m/
+N - /n/
+Ñ - /ɲ/
+O - /o/
+P - /p/
+R - /ɾ/
+S - /s/
+T - /t/
+U - /u/
+X - /ʃ/
+
+[TODO: PHONOTACTICS AND DIPHTONGS]
+
 ## Vocabulary
 
 ### Pronouns:
