@@ -22,6 +22,30 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 - “ruko” - to speak
 - “anubu” - to hate
 - "arok" - to be (is/am/are)
+- "euki" - to have
+- "egin" - to do/make
+- "jaso" - to receive
+- "joan" - to go
+- "jakin" - to know
+- "hartu" - to take
+- "ikusi" - to see
+- "etorri" - to come
+- "pentsatu" - to think
+- "begiratu" - to look
+- "nahi" - to want
+- "eman" - to give
+- "erabili" - to use
+- "aurkitu" - to find
+- "galdetu" - to ask
+- "lan" - to work
+- "sentitu" - to feel
+- "saiatu" - to try
+- "usi" - to let
+- "deitu" - to call
+- "behar" - to need
+- "bilakatu" - to become
+- "geratu" - to stay
+
 
 ### Interjections:
 - "on" - yes
@@ -35,10 +59,97 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 
 - "got" - cat
 - "dadi" - dad
+- "esea" - house
+- "txakurra" - dog
+- "autoa" - car
+- "mahaia" - table
+- "aulkia" - chair
+- "suhaisa" - tree
+- "liburua" - book
+- "pilota" - ball
+- "ordenagailua" - computer
+- "pertsona" - person
+- "familia" - family
+- "laguna" - friend
+- "ama" - mother
+- "aita" - father
+- "seme" - child
+- "anaia" - brother
+- "areba" - sister
+- "emastea" - wife
+- "senara" - husband
+- "janaria" - food
+- "ura" - water
+- "ogia" - bread
+- "esnea" - milk
+- "kafea" - coffee
+- "te" - tea
+- "fruitua" - fruit
+- "haragi" - meat
+- "baraski" - vegetable
+- "biskosa" - cake
+- "hiri" - city
+- "herialdea" - country
+- "heri" - town
+- "kalea" - street
+- "etxea" - home
+- "eskola" - school
+- "dendak" - store
+- "jatesea" - restaurant
+- "parkea" - park
+- "bulegoa" - office
+- "debora" - time
+- "modua" - way
+- "bisitsa" - life
+- "mundua" - world
+- "lana" - work
+- "sistema" - system
+- "informasioa" - information
+- "ideia" - idea
+- "problema" - problem
+- "egia" - fact
 
 ### Adjectives:
 - "gart" - black
 - "fukowa" - pretty
+- "posgarria" - happy
+- "ona" - good
+- "handia" - big
+- "saharra" - old
+- "gorria" - red
+- "beroa" - hot
+- "triste" - sad
+- "borobil" - round
+- "leuna" - smooth
+- "gosoa" - sweet
+- "jakintsua" - smart
+- "lagungarria" - friendly
+- "osasuntsua" - healthy
+- "txukuna" - clean
+- "askarra" - fast
+- "luse" - long
+- "saharra" - old
+- "urdina" - blue
+- "hotsa" - cold
+- "erraldoia" - huge
+- "berria" - new
+- "garrats" - sour
+- "urruna" - far
+- "beroa" - warm
+- "urreskoa" - golden
+- "harrigarria" - surprising
+- "bisia" - alive
+- "horia" - yellow
+- "txikia" - small
+- "sabala" - wide
+- "garbia" - clean
+- "gutxia" - few
+- "sikina" - dirty
+- "susena" - straight
+- "indartsua" - strong
+- "mundukoa" - worldwide
+- "gasi" - salty
+- "eguskitsu" - sunny
 
 ## Grammar
 
