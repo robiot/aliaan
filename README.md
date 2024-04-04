@@ -1,50 +1,63 @@
-# Aliaan v0.2.0
+# Aliaan v0.3.0
 
 Aliaan is a constructed language designed for simplicity and efficiency in communication. It is primarily formed from a limited set of words and concise grammatical structures.
 
-## Pronouns:
-- "ow" - (pronoun) I, me
-- "owe" - (pronoun) we, us
-- "fu" - (pronoun) you
-- "fue" - (pronoun) you (plural)
-- "ta" - (pronoun) he,she,it
-- "tae" - (pronoun) they, them
+## Vocabulary
 
-## Verbs:
-- "yika" - (verb) like
-- “asala” - (verb) to love
-- “ruko” - (verb) to speak
-- “anubu” - (verb) to hate
+### Pronouns:
+- "ow" - I, me
+- "owe" - we, us
+- "fu" - you
+- "fue" - you (plural)
+- "ta" - he,she,it
+- "tae" - they, them
 
-## Nouns:
+### Verbs:
+- "yika" - like
+- “asala” - to love
+- “ruko” - to speak
+- “anubu” - to hate
+- "arok" - to be (is/am/are)
+
+### Interjections:
+- "on" - yes
+- "sey" - no, denying
+- "owow" - wow
+- "oli" - hi
+- "looap" - goodbye
+
+### Nouns:
 To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in plural would be got-got (cats).
 
-- "got" - (noun) cat
-- "dadi" - (noun) dad
+- "got" - cat
+- "dadi" - dad
 
-## Modifiers:
-- "des" - (modifier) indicates ownership
-- "ah" - (modifier) indicates a question
+### Adjectives:
+- "gart" - black
+- "fukowa" - pretty
 
-## Interjections:
-- "on" - (interjection) yes
-- "sey" - (interjection) no
-- "owow" - (interjection) wow
-- "oli" - (interjection) hi
-- "looap" - (interjection) goodbye
+## Grammar
 
-## Word Order:
+### Modifiers:
+- "des" - indicates ownership
+- "ah" - indicates a question
+
+### Cases:
+- "kari" - recipient or affected. 'to'
+- "rengatik" - because, because of
+
+### Word Order:
 The typical word order in Aliaan is Subject-Verb-Object.
 
 ## Example Sentences:
-1. "ow yika fu." - (translation) I like you.
-2. "ow yika fu des got." - (translation) I like your cat.
-3. "fu yika ow ah?" - (translation) Do you like me?
-4. "ow asala fu." - (translation) I love you.
-5. "fu asala ow des got-got." - (translation) You love my cats.
-6. "ow ruko fu." - (translation) I speak to you.
-7. "fu ruko ow ah?" - (translation) Do you speak to me?
-8. "on, ow yika fu." - (translation) Yes, I like you.
-9. "sey, ow yika fu des got-got." - (translation) No, I don't like your cats.
+1. "ow yika fu." - I like you.
+2. "ow yika fu des got." - I like your cat.
+3. "fu yika ow ah?" - Do you like me?
+4. "ow asala fu." - I love you.
+5. "fu asala ow des got-got." - You love my cats.
+6. "ow ruko fu." - I speak to you.
+7. "fu ruko ow ah?" - Do you speak to me?
+8. "on, ow yika fu." - Yes, I like you.
+9. "sey, ow sey yika fu des got-got." - No, I don't like your cats.
 
 In Aliaan, sentences are constructed by placing the subject first, followed by the verb and then the object, if any. Modifiers such as "des" for ownership or "ah" for questions are placed where appropriate within the sentence.
