@@ -1,6 +1,9 @@
 # Aliaan v0.3.0
 
+## Background
 Aliaan is a constructed language designed for simplicity and efficiency in communication. It is primarily formed from a limited set of words and concise grammatical structures.
+
+Aliaan is spoken in Aliaand.
 
 ## Vocabulary
 
