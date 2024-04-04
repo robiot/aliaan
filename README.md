@@ -11,7 +11,7 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 ### Pronouns:
 - "ow" - I, me
 - "owe" - we, us
-- "fu" - you
+- "fu" - you (singular)
 - "fue" - you (plural)
 - "ta" - he,she,it
 - "tae" - they, them
