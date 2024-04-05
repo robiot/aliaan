@@ -8,27 +8,20 @@ Aliaan is a constructed language designed for simplicity and efficiency in commu
 
 ## Phonology
 
-A - /a/
-B - /b/
-D - /d/
-E - /e/
-F - /f/
-G - /ɡ/
-H - /h/
-I - /i/
-J - /ʒ/
-K - /k/
-L - /l/
-M - /m/
-N - /n/
-Ñ - /ɲ/
-O - /o/
-P - /p/
-R - /ɾ/
-S - /s/
-T - /t/
-U - /u/
-X - /ʃ/
+|          | Bilabial | Labiodental | Alveolar | Postalveolar | Velar | Glottal |
+|----------|----------|-------------|----------|--------------|-------|---------|
+| Plosive  | p        | b           | t        | d            | k     | ɡ       |
+| Nasal    | m        |             | n        |              |       |         |
+| Tap/Flap |          |             | ɾ        |              |       |         |
+| Fricative|          | f           | s        | ʃ `<x>`      |       | h       |
+| Lateral  |          |             | l        |              |       |         |
+| Affricate|          |             | ts       | tʃ `<tx>`    |       |         |
+
+|         | Front | Back |
+|---------|-------|------|
+| Close   | i     | u    |
+| Mid     | e     | o    |
+| Open    | a     |      |
 
 [TODO: PHONOTACTICS AND DIPHTONGS]
 
