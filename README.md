@@ -72,13 +72,16 @@ X - /ʃ/
 - "bilakatu" - to become
 - "geratu" - to stay
 
-
 ### Interjections:
 - "on" - yes
 - "sey" - no, denying
 - "owow" - wow
 - "oli" - hi
 - "looap" - goodbye
+
+## Conjunctions:
+- "ok" - and
+- "rengatik" - because, because of
 
 ### Nouns:
 To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in plural would be got-got (cats).
@@ -134,6 +137,8 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "ideia" - idea
 - "problema" - problem
 - "egia" - fact
+- "omo" - day
+- "gasto" - ghost
 
 ### Adjectives:
 - "gart" - black
@@ -177,15 +182,24 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "gasi" - salty
 - "eguskitsu" - sunny
 
+### Time
+- "inomo" - today
+- "batomo" - yesterday
+- "ranomo" - tomorrow
+- "oseomo" - now
+
 ## Grammar
 
 ### Modifiers:
 - "des" - indicates ownership
-- "ah" - indicates a question
 
 ### Cases:
 - "kari" - recipient or affected. 'to'
-- "rengatik" - because, because of
+
+#### Time cases
+- "-ho" - indicates a verb already happened. ex. (yikaho = liked)
+- "-lai" - indicates a verb will happen
+- "-ose" - indicates a verb is happening
 
 ### Word Order:
 The typical word order in Aliaan is Subject-Verb-Object.
