@@ -71,6 +71,7 @@ X - /ʃ/
 - "behar" - to need
 - "bilakatu" - to become
 - "geratu" - to stay
+- "tukku" to fuck
 
 ### Interjections:
 - "on" - yes
@@ -181,6 +182,8 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "mundukoa" - worldwide
 - "gasi" - salty
 - "eguskitsu" - sunny
+- "roli" - real
+- "txada" - fake
 
 ### Time
 - "inomo" - today
