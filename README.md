@@ -195,6 +195,7 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 
 ### Modifiers:
 - "des" - indicates ownership
+- "ah" - indicates a yes/no question
 
 ### Cases:
 - "kari" - recipient or affected. 'to'
