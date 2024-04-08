@@ -182,7 +182,7 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "mundukoa" - worldwide
 - "gasi" - salty
 - "eguskitsu" - sunny
-- "roli" - real
+- "egiko" - real
 - "txada" - fake
 
 ### Time
