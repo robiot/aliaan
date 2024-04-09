@@ -41,6 +41,7 @@ X - /ʃ/
 - "fue" - 2nd Plural - you all
 - "ta" - 3rd Singular - he,she,it
 - "tae" - 3rd Plural - they, them
+- "dat" - That
 
 ### Verbs:
 - "yika" - like
@@ -192,6 +193,9 @@ To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in p
 - "oseomo" - now
 
 ## Grammar
+
+### Articles
+- 
 
 ### Modifiers:
 - "des" - indicates ownership
