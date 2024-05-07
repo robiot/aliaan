@@ -84,6 +84,7 @@ X - /ʃ/
 ## Conjunctions:
 - "ok" - and
 - "rengatik" - because, because of
+- "gok" - also
 
 ### Nouns:
 To make a noun plural. Say it twice, bound by a "-". For instance got (cat) in plural would be got-got (cats).
