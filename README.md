@@ -80,6 +80,7 @@ X - /ʃ/
 - "owow" - wow
 - "oli" - hi
 - "looap" - goodbye
+- "malwan" - goodnight
 
 ## Conjunctions:
 - "ok" - and
