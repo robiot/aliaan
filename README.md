@@ -81,6 +81,7 @@ X - /ʃ/
 - "oli" - hi
 - "looap" - goodbye
 - "malwan" - goodnight
+- "mal poto" - good morning
 
 ## Conjunctions:
 - "ok" - and
