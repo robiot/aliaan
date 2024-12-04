@@ -72,7 +72,7 @@ X - /ʃ/
 - "behar" - to need
 - "bilakatu" - to become
 - "geratu" - to stay
-- "tukku" to fuck
+- "perse" to fuck
 
 ### Interjections:
 - "on" - yes
